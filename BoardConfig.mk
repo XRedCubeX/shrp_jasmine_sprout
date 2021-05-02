@@ -58,7 +58,6 @@ SHRP_PATH := device/xiaomi/jasmine_sprout
 SHRP_MAINTAINER := XRed_CubeX
 SHRP_REC_TYPE := Treble
 SHRP_DEVICE_TYPE := A/B
-SHRP_REC := /dev/block/bootdevice/by-name/recovery
 SHRP_EDL_MODE := 1
 SHRP_INTERNAL := /sdcard
 SHRP_OTG := /usb-otg
